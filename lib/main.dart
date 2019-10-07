@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
           gradient: LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
-            colors: [Colors.blue, const Color(0xFF21C8F3)],
+            colors: [Colors.blue, const Color(0xFF21F360)],
           ),
           appBar: AppBar(
             leading: Icon(Icons.menu),
